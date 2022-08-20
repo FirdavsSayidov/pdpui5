@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class HomePage extends StatefulWidget {
-  static final String id = "home_page";
+  static final String id = "home_page ";
 
   @override
   _HomePageState createState() => _HomePageState();
