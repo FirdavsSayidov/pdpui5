@@ -96,7 +96,7 @@ class _HomePageState extends State<HomePage> {
                     ),
                   ),
                   SizedBox(height: 20,),
-                  Text('Resort Hotels ',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 20),),
+                  Text('Resort Hotels',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 20),),
 
                   Container(
                     height: 200,
