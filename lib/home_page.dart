@@ -16,7 +16,7 @@ class _HomePageState extends State<HomePage> {
         child: Column(mainAxisAlignment: MainAxisAlignment.start,
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Container(
+          /*  Container(
               height: 200,
               width: double.infinity,
               decoration: BoxDecoration(
@@ -58,7 +58,7 @@ class _HomePageState extends State<HomePage> {
                   ],
                 ),
               ),
-            ),
+            ),*/
 
          SizedBox(height: 20,),
             Container(
