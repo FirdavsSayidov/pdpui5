@@ -80,7 +80,7 @@ class _HomePageState extends State<HomePage> {
                       ],
                     ),
                   ),
-                  SizedBox(height: 20,),
+                  const SizedBox(height: 20,),
                   Text('Airport Hotels ',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 20),),
                   SizedBox(height: 20,),
                   Container(
